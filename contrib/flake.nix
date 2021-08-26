@@ -2,7 +2,7 @@
   description = "Neovim flake";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-21.05";
     flake-utils.url = "github:numtide/flake-utils";
   };
 
